@@ -8,6 +8,6 @@
         Title="MainWindow" Height="450" Width="800"
         DataContext="{local:Get Type=local:MainWindowVM,IsDesignTimeCreatable=True}">
     <Grid>
-        <local:template Height="450" />
+        <local:Template Height="450" />
     </Grid>
 </Window>

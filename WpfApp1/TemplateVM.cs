@@ -9,7 +9,7 @@ namespace WpfApp1
 {
     public class TemplateVM : ViewModelBase
     {
-        public int _GridHeight = 10;
+        private int _GridHeight = 10;
         public int GridHeight
         {
             get => _GridHeight;

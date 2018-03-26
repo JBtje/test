@@ -18,9 +18,9 @@ namespace WpfApp1
     /// <summary>
     /// Interaction logic for template.xaml
     /// </summary>
-    public partial class template : UserControl
+    public partial class Template : UserControl
     {
-        public template()
+        public Template()
         {
             InitializeComponent();
         }
